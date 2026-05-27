@@ -6,14 +6,3 @@ Desenvolvedor com foco em TypeScript, JavaScript e Node.js, criando aplicações
 
 
 
-
-
-- [LINKEDIN](https://www.linkedin.com/in/grdeveloper)
-
-
-
-- [LAB 🧪📚](https://kreatorstack.github.io/lab)
-
-
-
-- topverbs@gmail.com
